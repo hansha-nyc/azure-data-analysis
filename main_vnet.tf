@@ -1,1 +1,2 @@
-# VNet for azure cloud.
+# VNet resource provision for azure cloud.
+# Antman - Earth - Milkyway
